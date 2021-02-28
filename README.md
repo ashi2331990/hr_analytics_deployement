@@ -1,2 +1,2 @@
 # hr_analytics_deployement
-promotion status predictor
+This is a streamlit app created for the hr solution to predict if the person should get a raise or not 
